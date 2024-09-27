@@ -1,6 +1,6 @@
 <h1> PPNCKH of Uyển Nhi </h1>
 GVHD: thầy Đỗ Như Tài
-<hr>
+
 <h2> Education </h2>
 <ul>
   <li> Nguyễn Trần Uyển Nhi - 3122410281 </li>
@@ -15,5 +15,5 @@ GVHD: thầy Đỗ Như Tài
   <li> Dự án 2 </li>
 </ul>
 <a href="#"> ntun-276 </a>
-<hr>
+
 ntun-276.github.io/ntun-276
